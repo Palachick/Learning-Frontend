@@ -1,1 +1,2 @@
-# Learning-HTML-and-CSS
+# Learning-Frontend
+# This project for education 
